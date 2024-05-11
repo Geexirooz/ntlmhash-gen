@@ -6,10 +6,10 @@ This Python script is designed to generate several types of hashes for given cre
 
 ## Features
 
-*     Hash Generation: Computes LM, NT, SHA1, and MSDCC2 hashes for provided credentials.
-*     Colorful Output: Outputs hash results in random colors to enhance readability and user experience.
-*     Command-line Interface: Fully functional command-line interface for easy use in scripts and testing setups.
-*     Secure Hashing: Uses reliable and secure libraries to compute hashes.
+* Hash Generation: Computes LM, NT, SHA1, and MSDCC2 hashes for provided credentials.
+* Colorful Output: Outputs hash results in random colors to enhance readability and user experience.
+* Command-line Interface: Fully functional command-line interface for easy use in scripts and testing setups.
+* Secure Hashing: Uses reliable and secure libraries to compute hashes.
 
 ## Prerequisites
 
